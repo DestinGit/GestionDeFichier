@@ -1,0 +1,3 @@
+75011;Paris
+75012;Paris
+59000;Lille
